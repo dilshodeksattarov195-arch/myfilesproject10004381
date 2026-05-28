@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdonnect",
+        "uuid": 32669117,
+        "checksum": "75vut"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
